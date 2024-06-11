@@ -18,3 +18,11 @@ The FAQ Component allows users to view frequently asked questions organized into
 ### Script Section
 
 The script section initializes and manages the component's state, including the selected tab and the expanded/collapsed state of the FAQs.
+
+## Preview
+
+### Default View
+![Nested Accordion](https://github.com/AroshaRavishan/Nested-accordion-Vue/blob/main/Nested%20accordion.png)
+
+### Expanded and Active View
+![Nested Accordion Expanded](https://github.com/AroshaRavishan/Nested-accordion-Vue/blob/main/Nested%20accordion%20expand%20and%20active.png)
